@@ -1,3 +1,4 @@
+<div align="center">
 <h1 align="left">Hii 👋 I'm Akash Bhusod</h1>
 
 ###
@@ -42,6 +43,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
+</div>
 </div>
 
 ###
