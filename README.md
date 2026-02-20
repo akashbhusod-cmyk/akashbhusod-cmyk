@@ -4,7 +4,7 @@
 
 ###
 
-<h6 align="left">🔭 I’m currently working on Data Science<br>🌱 I’m currently learning Artificial Intelligence and Machine Learning<br>Passionate Developer always learning, creating, and turning ideas into impactful applications. 🚀<br>Debugging is my cardio ⚡</h6>
+<h5 align="left">🔭 I’m currently working on Data Science<br>🌱 I’m currently learning Artificial Intelligence and Machine Learning<br>Passionate Developer always learning, creating, and turning ideas into impactful applications. 🚀<br>Debugging is my cardio ⚡</h5>
 
 ###
 
@@ -64,15 +64,4 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=akashbhusod-cmyk.akashbhusod-cmyk&"  />
 </div>
 
-###
 
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/akashbhusod-cmyk" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
