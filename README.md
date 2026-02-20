@@ -1,10 +1,10 @@
 <br clear="both">
 
-<h2 align="center">Hello 👋, I'm Akash Bhusod</h2>
+<h1 align="center">Hello 👋, I'm Akash Bhusod</h1>
 
 ###
 
-<h5 align="left">🔭 I’m currently working on Data Science<br>🌱 I’m currently learning Artificial Intelligence and Machine Learning<br>Passionate Developer always learning, creating, and turning ideas into impactful applications. 🚀<br>Debugging is my cardio ⚡</h5>
+<h4 align="left">🔭 I’m currently working on Data Science<br>🌱 I’m currently learning Artificial Intelligence and Machine Learning<br>Passionate Developer always learning, creating, and turning ideas into impactful applications. 🚀<br>Debugging is my cardio ⚡</h4>
 
 ###
 
