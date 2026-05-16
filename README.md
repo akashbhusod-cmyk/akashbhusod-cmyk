@@ -78,18 +78,6 @@ I'm a final-year Computer Science student from Nanded, Maharashtra, with a stron
 
 ---
 
-## Featured Projects
-
-> 📌 *Pin your best repositories below. Each project should have a clear README with: what it does, tech used, how to run it, and a screenshot.*
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [Project Name](https://github.com/akashbhusod-cmyk) | Brief one-line description of what it does | Python, Pandas, scikit-learn |
-| [Project Name](https://github.com/akashbhusod-cmyk) | Brief one-line description of what it does | React, Flask, ML |
-| [Project Name](https://github.com/akashbhusod-cmyk) | Brief one-line description of what it does | Python, NLP, Streamlit |
-
----
-
 ## Currently Learning
 
 - Deep Learning with TensorFlow / PyTorch
@@ -100,5 +88,5 @@ I'm a final-year Computer Science student from Nanded, Maharashtra, with a stron
 
 <p align="center">
   <i>Open to internship opportunities in Data Science, ML Engineering, and Full Stack Development.</i><br/>
-  <b>Let's connect →</b> <a href="mailto:your.email@gmail.com">your.email@gmail.com</a>
+  <b>Let's connect →</b> <a href="mailto:akashbhusod@gmail.com">akashbhusod@gmail.com</a>
 </p>
