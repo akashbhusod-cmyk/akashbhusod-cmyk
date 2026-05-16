@@ -87,6 +87,6 @@ I'm a final-year Computer Science student from Nanded, Maharashtra, with a stron
 ---
 
 <p align="center">
-  <i>Open to internship opportunities in Data Science, ML Engineering, and Full Stack Development.</i><br/>
+  <i>Open to internship opportunities in Data Science, ML Engineering, and Software Development.</i><br/>
   <b>Let's connect →</b> <a href="mailto:akashbhusod@gmail.com">akashbhusod@gmail.com</a>
 </p>
