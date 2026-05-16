@@ -69,20 +69,6 @@ I'm a final-year Computer Science student from Nanded, Maharashtra, with a stron
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akashbhusod-cmyk&show_icons=true&theme=default&hide_border=true&count_private=true&rank_icon=github" height="165" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashbhusod-cmyk&layout=compact&theme=default&hide_border=true&langs_count=6" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=akashbhusod-cmyk&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" height="165" />
-</p>
-
----
-
 ## Currently Learning
 
 - Deep Learning with TensorFlow / PyTorch
@@ -92,6 +78,6 @@ I'm a final-year Computer Science student from Nanded, Maharashtra, with a stron
 ---
 
 <p align="center">
-  <i>Open to internship opportunities in Data Science, ML Engineering, and Full Stack Development.</i><br/>
+  <i>Open to internship opportunities in Data Science, ML Engineering, and Software Development.</i><br/>
   <b>Let's connect →</b> <a href="mailto:akashbhusod@gmail.com">akashbhusod@gmail.com</a>
 </p>
