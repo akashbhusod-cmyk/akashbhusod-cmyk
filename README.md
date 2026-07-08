@@ -1,5 +1,4 @@
 <h1 align="center">Akash Vitthal Bhusod</h1>
-
 <p align="center">
   <b>Data Science & ML Engineer in the Making</b><br/>
   Final-year BCS student · Building intelligent systems · Open to internships & collaborations
