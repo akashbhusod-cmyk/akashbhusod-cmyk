@@ -14,7 +14,7 @@
   <a href="https://github.com/akashbhusod-cmyk">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/1w0W3MH-sxyk4bQGHj08dl4ZIkED3Qci7/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/1toJiNpqzrsWEjpqqQbI3RCpkpZNESdmW/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Resume-4CAF50?style=flat&logo=googledrive&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=akashbhusod-cmyk&style=flat&color=blue&label=visitors" />
