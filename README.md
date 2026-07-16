@@ -70,10 +70,11 @@ I'm a final-year Computer Science student from Nanded, Maharashtra, with a stron
 
 ## Currently Learning
 
+- Retrieval-Augmented Generation (RAG) and Semantic Search Systems
+- Natural Language Processing (NLP) — text extraction, translation, and Whisper ASR
 - Deep Learning with TensorFlow / PyTorch
 - MLOps — model deployment and monitoring
 - Building end-to-end ML pipelines
-
 ---
 
 <p align="center">
